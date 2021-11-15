@@ -9,3 +9,8 @@
   background: #fff0d;
 }
 
+.space :hover{
+  opacity: 1;
+}
+
+
